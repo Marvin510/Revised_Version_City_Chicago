@@ -1,13 +1,11 @@
 # Marvin Miranda Olmedo
-# Revised_Version_City_Chicago
-Revised_Version_City_Chicago
+# Revised_Version_City_Of_Chicago
 
 link to tableau
 
 # The making process of visualization #1
 
 ## There are more cameras in impoverished areas.
-
 
 While doing the data exploration assignment, I questioned the bias of some cameras locations.
 
