@@ -1,7 +1,32 @@
 # Marvin Miranda Olmedo
 # Revised_Version_City_Of_Chicago
 
-link to tableau
+https://public.tableau.com/profile/marvin.olmedo#!/vizhome/FinalVersionIndProj/Dashboard1?publish=yes
+
+# visualization #1
+
+Data Exploration Assumption
+-	Questioned why certain cameras had more violations
+- Assumed the location of these cameras was not arbitrary
+
+Hypothesis
+- There were more cameras in impoverished areas
+- Plot with poverty index bins supported this idea
+
+Conclusion
+- Poverty areas are not targeted 
+- School locations are the main driver of camera amounts
+- Violations increase with a higher camera count
+
+Improvements 
+Interaction based on:
+- Poverty Indexes
+- Joined Chicago’s school data set to evaluate correlation between camera location and violations
+
+Visualization# 1
+![FinalPic1](https://github.com/Marvin510/Revised_Version_City_Chicago/blob/master/Pics/1.png "Fianl1")
+
+
 
 # The making process of visualization #1
 
@@ -61,6 +86,31 @@ There are more cameras in poorer areas than in rich areas. Specifically if Hards
 - A future enhancement to this visualization would be to optain school locations to prove or disprove that cameras have been installed 1/8 of mile from schools as the City of Chicago Claims.
 - Consider other socio economic factors that may be affecting the location of cameras
 - Explore population differences among indexes.
+
+
+# visualization #2
+
+Data Exploration Assumption
+- Assumed that party with largest representation would have the ward with highest violation 
+- Democrats control 48 out of 50 wards, thus I assumed they would have the ward with highest violations
+
+Hypothesis
+- Democrats would have the ward with highest violations across years and poverty indexes
+
+Conclusion
+- Although Democrats have the majority representation, they did not represent the ward with the highest violation
+- Ward# 38 has the only Independent representative with significantly more violations across years and poverty indexes
+
+Improvements
+Interaction based on:
+- Poverty Indexes
+- Years
+- Validated that ward# 38 did not have demographics differences and the only interesting difference was its political representative
+
+Visualization# 1
+
+![FinalPic#2](https://github.com/Marvin510/Revised_Version_City_Chicago/blob/master/Pics/2.png "Visualization#2")
+
 
 
 # The making process of visualization #2
