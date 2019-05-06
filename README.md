@@ -18,11 +18,10 @@ Conclusion
 - School locations are the main driver of camera amounts ("Chicago Public Schools - School Profile Information SY1617 | City of Chicago | Data Portal")
 - Violations increase with a higher camera count
 
-Improvements made
-
-Interaction based on:
+Improvements - Interaction based on:
 - Poverty Indexes
 - Joined Chicago’s school data set to evaluate correlation between camera location and violations
+- These improvements helped in clarifying wether or not poverty indexes were correlated with camera locations, the new data set provided location and count of schools.
 
 ## Visualization# 1
 
@@ -105,12 +104,11 @@ Conclusion
 - Although Democrats have the majority representation, they did not represent the ward with the highest violation
 - Ward# 38 has the only Independent representative with significantly more violations across years and poverty indexes
 
-Improvements made
-
-Interaction based on:
+Improvements - Interaction based on:
 - Poverty Indexes
 - Years
 - Validated that ward# 38 did not have demographics differences and the only interesting difference was its political representative
+- Interaction of poverty indexes and years support the idea that ward#38 is very unique. Through out years and across indexes it remained the highest.
 
 Visualization# 2
 
@@ -170,12 +168,11 @@ Conclusion
 - Averaging weekends showed significantly more violations across years, wards, and poverty indexes
 - Saturday and Sunday consistently reported more than any weekday
 
-Improvements made
-
-Interaction based on:
+Improvements - Interaction based on:
 - Poverty Indexes
 - Years
 - Political Party
+- These improvements helped in clarying if weekends had varience of violations in other wards, poverty indexes or years.
 
 Visualization# 3
 
