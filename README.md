@@ -32,7 +32,7 @@ Interaction based on:
 
 ### The making process of visualization #1
 
-There are more cameras in impoverished areas.(Original Assumptions
+There are more cameras in impoverished areas.(Original Assumption)
 
 While doing the data exploration assignment, I questioned the bias of some cameras locations.
 
