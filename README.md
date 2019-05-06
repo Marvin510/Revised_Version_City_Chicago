@@ -10,7 +10,7 @@ Data Exploration Assumption
 - Assumed the location of these cameras was not arbitrary
 
 Hypothesis
-- There were more cameras in impoverished areas
+- There are more cameras in impoverished areas
 - Plot with poverty index bins supported this idea
 
 Conclusion
