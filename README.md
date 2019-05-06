@@ -24,6 +24,7 @@ Interaction based on:
 - Joined Chicago’s school data set to evaluate correlation between camera location and violations
 
 Visualization# 1
+
 ![FinalPic1](https://github.com/Marvin510/Revised_Version_City_Chicago/blob/master/Pics/1.png "Fianl1")
 
 
@@ -107,9 +108,9 @@ Interaction based on:
 - Years
 - Validated that ward# 38 did not have demographics differences and the only interesting difference was its political representative
 
-Visualization# 1
+Visualization# 2
 
-![FinalPic#2](https://github.com/Marvin510/Revised_Version_City_Chicago/blob/master/Pics/2.png "Visualization#2")
+![FinalPic#2](https://github.com/Marvin510/Revised_Version_City_Chicago/blob/master/Pics/2.png "FinalVisualization#2")
 
 
 
@@ -151,6 +152,29 @@ I thought this was a very intersting finding that does not imply or claim anythi
  - I would like to see if this Ward differs from others on socio economic factors
  
 
+# visualization #3
+
+Data Exploration Assumption
+- Assumed that certain days would have more violations
+- Presumably Monday through Friday as cameras target school hours and locations
+
+Hypothesis
+- Weekdays will have the highest violations
+- Friday had the most violations based on the sum of violations per day  
+
+Conclusion
+- Averaging weekends showed significantly more violations across years, wards, and poverty indexes
+- Saturday and Sunday consistently reported more than any weekday
+
+Improvements
+Interaction based on:
+- Poverty Indexes
+- Years
+- Political Party
+
+Visualization# 3
+
+![FinalPic#3](https://github.com/Marvin510/Revised_Version_City_Chicago/blob/master/Pics/3.png "FinalVisualization#3")
 
 # The making process of visualization #3
 ### Keeping in mind that school is in session Monday through Friday, weekends should have less violations. Which is the opposite of what is truly happening.
