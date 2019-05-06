@@ -3,6 +3,16 @@
 
 https://public.tableau.com/profile/marvin.olmedo#!/vizhome/FinalVersionIndProj/Dashboard1?publish=yes
 
+# Structure for all 3 visualizations
+- Data exploration & Assumption
+- Hypothesis
+- Conclusion
+- Improvements
+- Image of final product
+- The making of visualization with previous thesis, hypothesis, conclusion and improvements
+
+
+
 # Visualization #1
 
 Data Exploration Assumption
