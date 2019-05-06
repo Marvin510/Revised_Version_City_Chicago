@@ -21,7 +21,7 @@ Conclusion
 Improvements - Interaction based on:
 - Poverty Indexes
 - Joined Chicago’s school data set to evaluate correlation between camera location and violations
-- These improvements helped in clarifying wether or not poverty indexes were correlated with camera locations, the new data set provided location and count of schools.
+- These improvements helped in clarifying whether or not poverty indexes were correlated with camera locations, the new data set provided location and count of schools.
 
 ## Visualization# 1
 
