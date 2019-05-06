@@ -15,7 +15,7 @@ Hypothesis
 
 Conclusion
 - Poverty areas are not targeted 
-- School locations are the main driver of camera amounts
+- School locations are the main driver of camera amounts ("Chicago Public Schools - School Profile Information SY1617 | City of Chicago | Data Portal")
 - Violations increase with a higher camera count
 
 Improvements 
@@ -23,15 +23,15 @@ Interaction based on:
 - Poverty Indexes
 - Joined Chicago’s school data set to evaluate correlation between camera location and violations
 
-Visualization# 1
+## Visualization# 1
 
 ![FinalPic1](https://github.com/Marvin510/Revised_Version_City_Chicago/blob/master/Pics/1.png "Fianl1")
 
 
 
-# The making process of visualization #1
+### The making process of visualization #1
 
-## There are more cameras in impoverished areas.
+There are more cameras in impoverished areas.(Original Assumptions
 
 While doing the data exploration assignment, I questioned the bias of some cameras locations.
 
@@ -82,11 +82,13 @@ There are more cameras in poorer areas than in rich areas. Specifically if Hards
 
 ![FinalPic#1](https://github.com/Marvin510/ChicagoSpeedViolations/blob/master/Images/FinalPict%231.png "Visualization#1")
 
-### Future enhancements
+### Enhancements road map
 
 - A future enhancement to this visualization would be to optain school locations to prove or disprove that cameras have been installed 1/8 of mile from schools as the City of Chicago Claims.
 - Consider other socio economic factors that may be affecting the location of cameras
 - Explore population differences among indexes.
+
+
 
 
 # visualization #2
@@ -114,7 +116,7 @@ Visualization# 2
 
 
 
-# The making process of visualization #2
+## The making process of visualization #2
 
 ## The city of Chicago is divided into 50 wards. Each ward has 1 representative. There is 1 ward that is not controlled by a Republican or Democrat. This ward is controlled by an Independent. 
 ## The ward with the only Independent Representative has the highest amount of violations.
@@ -147,7 +149,7 @@ I thought this was a very intersting finding that does not imply or claim anythi
 
 ![FinalPic2](https://github.com/Marvin510/ChicagoSpeedViolations/blob/master/Images/FinalPic%232.png "Visualization#2")
 
-### Future enhancements
+### Enhancements road map
  - I would like to explore demographics of this Ward
  - I would like to see if this Ward differs from others on socio economic factors
  
@@ -176,7 +178,7 @@ Visualization# 3
 
 ![FinalPic#3](https://github.com/Marvin510/Revised_Version_City_Chicago/blob/master/Pics/3.png "FinalVisualization#3")
 
-# The making process of visualization #3
+## The making process of visualization #3
 ### Keeping in mind that school is in session Monday through Friday, weekends should have less violations. Which is the opposite of what is truly happening.
 
 In the data exploration process, I designed a visualization that showed Friday as the day with more violations. I received criticism and thus decided to build on that mistake. Perhaps, explore if this visualization could lead to an interesting finding.
@@ -194,7 +196,7 @@ This is an intersting finding considering the fact that school is only in sessio
 ![FinalPic3](https://github.com/Marvin510/ChicagoSpeedViolations/blob/master/Images/FinalPic%233.png "Visualization#3")
 
 
-### Future enhancements
+### Enhancements road map
 - Would like to create a forecast
 - Would like to breakdown by wards
 - Would like to compare by zip code and Socio economic Factors
@@ -236,3 +238,4 @@ This is an intersting finding considering the fact that school is only in sessio
 
 - Ward Offices | City of Chicago | Data Portal. (n.d.). Retrieved April 27, 2019, from https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Ward-Offices/htai-wnw4
 
+- Chicago Public Schools - School Profile Information SY1617 | City of Chicago | Data Portal. (n.d.). Retrieved May 5, 2019, from https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Profile-Information-/8i6r-et8s
