@@ -228,6 +228,10 @@ This is an intersting finding considering the fact that school is only in sessio
 
 - Split columns to find Longitude and Latitude of Wards.
 
+- Added Data Set "Chicago Public Schools - School Profile Information SY1617"
+
+- Cleaned N/A values
+
 # References
 
 - Children's Safety Zone Program & Automated Speed Enforcement. (n.d.). Retrieved April 27, 2019, from https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html
