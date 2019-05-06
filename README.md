@@ -23,7 +23,7 @@ Improvements - Interaction based on:
 - Joined Chicago’s school data set to evaluate correlation between camera location and violations
 - These improvements helped in clarifying whether or not poverty indexes were correlated with camera locations, the new data set provided location and count of schools.
 
-## Visualization# 1
+## FINAL - Visualization# 1
 
 ![FinalPic1](https://github.com/Marvin510/Revised_Version_City_Chicago/blob/master/Pics/1.png "Fianl1")
 
@@ -110,7 +110,7 @@ Improvements - Interaction based on:
 - Validated that ward# 38 did not have demographics differences and the only interesting difference was its political representative
 - Interaction of poverty indexes and years support the idea that ward#38 is very unique. Through out years and across indexes it remained the highest.
 
-Visualization# 2
+# FINAL Visualization# 2
 
 ![FinalPic#2](https://github.com/Marvin510/Revised_Version_City_Chicago/blob/master/Pics/2.png "FinalVisualization#2")
 
@@ -174,7 +174,7 @@ Improvements - Interaction based on:
 - Political Party
 - These improvements helped in clarying if weekends had varience of violations in other wards, poverty indexes or years.
 
-Visualization# 3
+# FINAL Visualization# 3
 
 ![FinalPic#3](https://github.com/Marvin510/Revised_Version_City_Chicago/blob/master/Pics/3.png "FinalVisualization#3")
 
