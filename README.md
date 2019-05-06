@@ -128,8 +128,8 @@ Improvements - Interaction based on:
 
 ## The making of visualization# 2 with previous thesis, hypothesis, conclusion and improvements
 
-## The city of Chicago is divided into 50 wards. Each ward has 1 representative. There is 1 ward that is not controlled by a Republican or Democrat. This ward is controlled by an Independent. 
-## The ward with the only Independent Representative has the highest amount of violations.
+- The city of Chicago is divided into 50 wards. Each ward has 1 representative. There is 1 ward that is not controlled by a Republican or Democrat. This ward is controlled by an Independent. 
+- The ward with the only Independent Representative has the highest amount of violations.
 
 While researching the zip code issue from the original data set I came to realize that I did not understand the meaning of the Wards. 
 
