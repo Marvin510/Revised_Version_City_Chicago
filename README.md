@@ -39,7 +39,7 @@ Improvements - Interaction based on:
 
 
 
-### The making process of visualization #1
+### The making of visualization# 1 with previous thesis, hypothesis, conclusion and improvements
 
 There are more cameras in impoverished areas.(Original Assumption)
 
@@ -126,7 +126,7 @@ Improvements - Interaction based on:
 
 
 
-## The making process of visualization #2
+## The making of visualization# 2 with previous thesis, hypothesis, conclusion and improvements
 
 ## The city of Chicago is divided into 50 wards. Each ward has 1 representative. There is 1 ward that is not controlled by a Republican or Democrat. This ward is controlled by an Independent. 
 ## The ward with the only Independent Representative has the highest amount of violations.
@@ -188,7 +188,7 @@ Improvements - Interaction based on:
 
 ![FinalPic#3](https://github.com/Marvin510/Revised_Version_City_Chicago/blob/master/Pics/3.png "FinalVisualization#3")
 
-## The making process of visualization #3
+## The making of visualization# 3 with previous thesis, hypothesis, conclusion and improvements
 ### Keeping in mind that school is in session Monday through Friday, weekends should have less violations. Which is the opposite of what is truly happening.
 
 In the data exploration process, I designed a visualization that showed Friday as the day with more violations. I received criticism and thus decided to build on that mistake. Perhaps, explore if this visualization could lead to an interesting finding.
