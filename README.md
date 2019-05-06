@@ -3,7 +3,7 @@
 
 https://public.tableau.com/profile/marvin.olmedo#!/vizhome/FinalVersionIndProj/Dashboard1?publish=yes
 
-# visualization #1
+# Visualization #1
 
 Data Exploration Assumption
 -	Questioned why certain cameras had more violations
@@ -91,7 +91,7 @@ There are more cameras in poorer areas than in rich areas. Specifically if Hards
 
 
 
-# visualization #2
+# Visualization #2
 
 Data Exploration Assumption
 - Assumed that party with largest representation would have the ward with highest violation 
@@ -154,7 +154,7 @@ I thought this was a very intersting finding that does not imply or claim anythi
  - I would like to see if this Ward differs from others on socio economic factors
  
 
-# visualization #3
+# Visualization #3
 
 Data Exploration Assumption
 - Assumed that certain days would have more violations
